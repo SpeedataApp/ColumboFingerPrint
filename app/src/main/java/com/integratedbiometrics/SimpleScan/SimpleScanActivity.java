@@ -83,7 +83,6 @@ import com.integratedbiometrics.ibscanultimate.IBScanDevice.SegmentPosition;
 import com.integratedbiometrics.ibscanultimate.IBScanDeviceListener;
 import com.integratedbiometrics.ibscanultimate.IBScanException;
 import com.integratedbiometrics.ibscanultimate.IBScanListener;
-import com.integratedbiometrics.ibsimplescan.PlaySound;
 import com.integratedbiometrics.ibsimplescan.R;
 
 import java.io.File;

@@ -1,4 +1,4 @@
-package com.integratedbiometrics.ibsimplescan;
+package com.integratedbiometrics.SimpleScan;
 
 import android.media.AudioFormat;
 import android.media.AudioManager;
